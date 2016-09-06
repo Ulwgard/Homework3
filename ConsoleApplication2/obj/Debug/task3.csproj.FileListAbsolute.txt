@@ -1,0 +1,6 @@
+D:\projects\ConsoleApplication3\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\projects\ConsoleApplication3\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\projects\ConsoleApplication3\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\projects\ConsoleApplication3\ConsoleApplication2\obj\Debug\task3.csprojResolveAssemblyReference.cache
+D:\projects\ConsoleApplication3\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\projects\ConsoleApplication3\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
